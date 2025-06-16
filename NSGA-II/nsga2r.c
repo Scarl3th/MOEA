@@ -56,7 +56,7 @@ int main (int argc, char **argv)
     population *mixed_pop;
     if (argc<2)
     {
-        printf("\n Usage ./nsga2r instance_route random_seed popsize ngen nobj pcross_bin pmut_bin\n./nsga2r 0.123 BOSCPchiquito.dat 100 100 2 0.6 0.01\n");
+        printf("\n Usage ./nsga2r instance_route random_seed popsize ngen nobj pcross_bin pmut_bin\n./nsga2r 0.123 BOSCPV 100 100 2 0.6 0.01\n");
         exit(1);
     }
     seed = (double)atof(argv[1]);
