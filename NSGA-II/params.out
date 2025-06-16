@@ -1,0 +1,8 @@
+# This file contains information about inputs as read by the program
+
+ Population size = 80
+ Number of generations = 10000
+ Number of objective functions = 2
+Seed for random number generator = 4.019700e-01
+ Number of crossover of binary variable = 319637
+ Number of mutation of binary variable = 722028
